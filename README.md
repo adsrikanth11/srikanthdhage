@@ -9,13 +9,13 @@ I am a passionate and detail-oriented Full Stack Developer specializing in the M
 My expertise lies in building scalable backend systems, designing high-performance RESTful APIs, and crafting dynamic, user-centric frontend experiences. I am deeply committed to writing clean, maintainable code and following best practices in System Design to ensure applications can grow seamlessly with business needs. Whether it's optimizing complex database queries or setting up automated CI/CD deployment pipelines, I thrive on solving complex technical challenges.
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/ambaldhagesrikanth-44117a173/?locale=te_IN)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:adsrikanth11@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://sarkariyo.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
