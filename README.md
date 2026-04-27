@@ -2,7 +2,7 @@
   
 # Hi there, I'm Srikanth 👋
 
-**Full Stack Developer | 6+ Years Experience Building Scalable Web Applications**
+**Full Stack Developer | 7 Years Experience Building Scalable Web Applications**
 
 I am a passionate and detail-oriented Full Stack Developer specializing in the MEAN stack (MongoDB, Express.js, Angular, Node.js) and MySQL. With over 6 years of professional experience, I have a proven track record of architecting, developing, and deploying robust, production-ready web applications from the ground up. 
 
