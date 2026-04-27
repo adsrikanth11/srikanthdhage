@@ -93,20 +93,20 @@ My expertise lies in building scalable backend systems, designing high-performan
 
 ## 🚀 Personal Projects - Live Applications
 
-### 1. [roform-sri.web.app](https://roform-sri.web.app) – Multi-Step Service Request Portal
-- **Tech Stack:** Angular, Angular Material, Firebase Hosting, GitHub.
+### 1. [sarkariyo.com](https://sarkariyo.com) – Government Job Listings Portal
+- **Description:** A comprehensive portal for government job postings featuring advanced search and filter capabilities.
+- **Tech Stack:** Angular, Angular Material, Bootstrap 5, Angular PWA, Node.js, Express.js, MySQL.
 
-### 2. [ssspasswordgenerator.com](https://ssspasswordgenerator.com) – Secure Password Generator Tool
-- **Description:** A tool with custom configuration options for generating highly secure passwords.
-- **Tech Stack:** Angular, Angular Material, Bootstrap 5, Angular PWA.
-
-### 3. [dumchick.com](https://dumchick.com) – Multiple Tools Platform
+### 2. [dumchick.com](https://dumchick.com) – Multiple Tools Platform
 - **Description:** A platform offering various utilities (Pin code, Bank IFSC, YouTube thumbnail downloader, Password Generator).
 - **Tech Stack:** Angular, Angular Material, Bootstrap 5, Angular PWA, Node.js, Express.js, MySQL.
 
-### 4. [sarkariyo.com](https://sarkariyo.com) – Government Job Listings Portal
-- **Description:** A comprehensive portal for government job postings featuring advanced search and filter capabilities.
-- **Tech Stack:** Angular, Angular Material, Bootstrap 5, Angular PWA, Node.js, Express.js, MySQL.
+### 3. [ssspasswordgenerator.com](https://ssspasswordgenerator.com) – Secure Password Generator Tool
+- **Description:** A tool with custom configuration options for generating highly secure passwords.
+- **Tech Stack:** Angular, Angular Material, Bootstrap 5, Angular PWA.
+  
+### 4. [roform-sri.web.app](https://roform-sri.web.app) – Multi-Step Service Request Portal
+- **Tech Stack:** Angular, Angular Material, Firebase Hosting, GitHub.
 
 > **Note:** The above websites (2, 3, and 4) are full-stack web applications featuring fully responsive and user-friendly UI designs. They are SEO-friendly, PWA-enabled, and deployed on Linux VPS servers utilizing NGINX as a reverse proxy with automated CI/CD pipelines via GitHub Actions.
 
